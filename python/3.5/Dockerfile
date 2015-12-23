@@ -1,5 +1,5 @@
 FROM python:3.5
-MAINTAINER flyer <flyer103@gmail.com
+MAINTAINER flyer <flyer103@gmail.com>
 
 VOLUME ["/data/py-pkg/"]
 
